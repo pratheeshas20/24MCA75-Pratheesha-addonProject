@@ -27,7 +27,7 @@ public Rectangle(String shapetype,String shapeID) {
 	@Override
 	public void CalculateArea() {
 		SurfaceArea = length * breadth;
-		//System.out.println(SurfaceArea);
+		System.out.println(SurfaceArea);
 		
 	}
 	

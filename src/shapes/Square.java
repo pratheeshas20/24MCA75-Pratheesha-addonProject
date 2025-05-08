@@ -24,7 +24,7 @@ public class Square extends Shape {
 	public void CalculateArea() {
 		//calculate area
 		SurfaceArea = side * side;
-		//System.out.println(SurfaceArea);
+		System.out.println(SurfaceArea);
 		
 	}
 	@Override
