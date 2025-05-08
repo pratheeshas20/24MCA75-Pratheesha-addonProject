@@ -26,7 +26,7 @@ public class Cube extends Shape {
 	@Override
 	public void CalculateArea() {
 		SurfaceArea =2 * (length*breadth +breadth*height +length*height);
-		//System.out.println(SurfaceArea);
+		System.out.println(SurfaceArea);
 		
 	}
 	
