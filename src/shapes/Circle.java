@@ -22,7 +22,7 @@ public class Circle extends Shape {
 		@Override
 		public void CalculateArea() {
 			SurfaceArea = (22.0/7)* radius * radius;
-			//System.out.println(SurfaceArea);
+			System.out.println(SurfaceArea);
 		}
 		
 		@Override
